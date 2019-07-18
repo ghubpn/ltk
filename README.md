@@ -1,1 +1,1 @@
-# syslog_viewer
+# syslog_visualizer
